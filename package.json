@@ -1,0 +1,16 @@
+{
+  "name": "hallowspite",
+  "version": "0.0.1",
+  "description": "Hallowspite is a text-based RPG in the browser, bundled with a system for creating your own stories, and sharing them with the community.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nordtwig",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "live-server": "^1.2.1",
+    "normalize.css": "^8.0.1"
+  }
+}
