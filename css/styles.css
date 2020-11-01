@@ -1,4 +1,9 @@
 body {
-    background-color: darkslategray;
+    background-color: 	#21272e;
     color: white;
+}
+
+.text-crawl {
+    height: 85vw;
+    overflow: auto;
 }
